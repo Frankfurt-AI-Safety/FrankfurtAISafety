@@ -21,7 +21,7 @@ export const siteConfig = {
   links: {
     whatsapp: "https://chat.whatsapp.com/GhJC4HfZwkiIAvA85U6w7V",
     telegram: "",
-    email: "frankfurtsafety@gmail.com",
+    email: "mail@frankfurtaisafety.org",
     instagram: "",
     linkedin: "https://www.linkedin.com/company/safe-ai-frankfurt/",
     meetup: "https://www.meetup.com/safe-ai-germany-saige-frankfurt/",
